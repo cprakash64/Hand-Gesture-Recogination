@@ -1,5 +1,5 @@
 # Hand-Gesture-Recogination
-Overview This Python-based computer vision project focuses on the recognition of hand gestures, offering a versatile solution for diverse applications, from virtual interfaces to gesture-based control systems. By utilizing various Python libraries, the project delivers accurate and real-time hand gesture recognition.
+This Python-based computer vision project focuses on the recognition of hand gestures, offering a versatile solution for diverse applications, from virtual interfaces to gesture-based control systems. By utilizing various Python libraries, the project delivers accurate and real-time hand gesture recognition.
 
 # Features
 Multi-library Integration: Harnessing the capabilities of popular Python libraries such as OpenCV, MediaPipe, and others, this project ensures robust and efficient hand gesture recognition.
