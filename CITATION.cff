@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "hand-gesture-recognition-using-mediapipe"
+authors:
+- family-names: "Pandey"
+  given-names: "Chandra prakash"
+  orcid: "https://orcid.org/0000-0002-1343-9181"
+date-released: 09-11-2003
+message: "If you use 'hand-gesture-recognition-using-mediapipe' in your research, please cite it using these metadata."
+url: "https://github.com/cprakash64"
+license: Apache-2.0 license
